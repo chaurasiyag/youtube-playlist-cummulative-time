@@ -16,4 +16,4 @@ Thanks :)
 
 
 
-I will be addin the new feature in future.
+I will be adding the new feature in future.
