@@ -12,4 +12,4 @@ git clone https://github.com/chaurasiyag/youtube-playlist-cummulative-time.git &
 python3 main.py [playlist_url]
 ```
 
-Thanks
+Thanks :)
